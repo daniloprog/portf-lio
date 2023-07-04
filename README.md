@@ -11,8 +11,8 @@ Olá, Bem-vindos ao meu projeto de portfólio.
 * css
 * Flexbox
 
-##Feito por:
-###Danilo Oliveira
+Feito por:
+Danilo Oliveira
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+Linkedin: https://www.linkedin.com/school/aluracursos/
 
